@@ -92,3 +92,8 @@ Each group must submit:
 **Instructor:** Adnan Jelani  
 **Course:** Introduction to ICT – Lab 7  
 **Semester:** Fall 2025
+
+
+## Team Members
+- Group Leader: Izza Tanveer (izzatanveer)
+- Teammate 1: javeria yousaf (jaweriayousaf-112)
